@@ -1,0 +1,254 @@
+[33mcommit d4e03f28a7ccfeca4dcf21006a6ff199329ed979[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Date:   Mon Dec 4 16:30:57 2017 +0000
+
+    Updated dependencies
+
+[33mcommit c3f57961fc843bf2564fa2cc9fac95b4e167ca31[m
+Merge: ce7a834 d96be23
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Date:   Thu Mar 9 06:33:10 2017 +0000
+
+    Merge pull request #143 from LuuKhang/documentation
+    
+    Code Documentation Addition
+
+[33mcommit d96be238f718788857b44891460754359762cd7f[m
+Author: luukhang <khang.luu@hotmail.com>
+Date:   Thu Mar 9 01:17:32 2017 -0500
+
+    Added function explanations for grid, cell, and related classes
+
+[33mcommit 2a99026b17de007be6e952c24c3a8181580c09f3[m
+Author: luukhang <khang.luu@hotmail.com>
+Date:   Thu Mar 9 01:15:59 2017 -0500
+
+    Added function explanations for controller classes
+
+[33mcommit ce7a8345329907ef9596bb7b51887602277763c6[m
+Merge: 1805132 238ed9c
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Date:   Sun Sep 18 09:28:00 2016 +0100
+
+    Merge pull request #123 from shott85/master
+    
+    fix for 'mvn jetty:run'
+
+[33mcommit 238ed9ca84a38a154722f7aa851d933107533401[m
+Author: David Schott <schottdb@gmail.com>
+Date:   Sat Sep 17 22:19:30 2016 -0400
+
+    move Selenium Dockerfile
+
+[33mcommit d61593f4fee45ead745b9999ebc19f6f04734d17[m
+Author: David Schott <schottdb@gmail.com>
+Date:   Sat Sep 17 22:06:23 2016 -0400
+
+    gameoflife.war must run standalone
+
+[33mcommit 6ebd401267b9fe7162770e1b534d166745b51eac[m
+Author: David Schott <schottdb@gmail.com>
+Date:   Sat Sep 17 15:47:27 2016 -0400
+
+    update default URLs, bump Thucydides version
+
+[33mcommit 6fa646ea1164d235e2e41159e9dddeeffaed62d7[m
+Author: David Schott <schottdb@gmail.com>
+Date:   Sat Sep 17 15:46:31 2016 -0400
+
+    add Dockerfile
+
+[33mcommit 6b219162cfce281ebe52408e6f4c5419dadc6268[m
+Author: David Schott <schottdb@gmail.com>
+Date:   Fri Sep 16 13:02:17 2016 -0400
+
+    fix for 'mvn jetty:run' per https://github.com/wakaleo/game-of-life/issues/53
+
+[33mcommit 18051323061c9d96d348a71113bde562441a0ca8[m
+Merge: 0c4b7af 1e90fa9
+Author: John Smart <john.smart@wakaleo.com>
+Date:   Tue Sep 16 15:15:24 2014 +1000
+
+    Merge branch 'master' of github.com:wakaleo/game-of-life
+
+[33mcommit 0c4b7af763f494c67776043639a8ad82f66023fc[m
+Author: John Smart <john.smart@wakaleo.com>
+Date:   Tue Sep 16 15:14:34 2014 +1000
+
+    Updated dependencies
+
+[33mcommit 1e90fa968ccecae16c8b475f3409383ba6365fae[m
+Author: John Smart <john.smart@wakaleo.com>
+Date:   Tue Sep 16 15:14:34 2014 +1000
+
+    Updated dependencies
+
+[33mcommit 168975f7d5dd77c2097305a16b6e392ba8b24c8f[m
+Author: John Smart <john.smart@wakaleo.com>
+Date:   Tue Nov 19 13:54:10 2013 +1100
+
+    Updated the jacoco plugin
+
+[33mcommit 118e088d54bfaee1c357ec4fb58110fecbb25e92[m
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Date:   Fri Apr 12 13:38:34 2013 +1000
+
+    Restored working tests
+
+[33mcommit 7925e7cd626dce483da478a315faeadb7fea0611[m
+Merge: f9e7ba5 e90a926
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Date:   Tue Mar 5 15:17:18 2013 -0800
+
+    Merge pull request #13 from VDD/continuous-delivery
+    
+    Continuous delivery
+
+[33mcommit f9e7ba53d06f6d4df233058d6c26d3d3bf1e22de[m
+Merge: 4c76873 c97a9ec
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Date:   Tue Mar 5 15:16:18 2013 -0800
+
+    Merge pull request #7 from virendray/patch-1
+    
+    Update gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/Cell....
+
+[33mcommit e90a926524ea36dabaafc5653b4015aa6eb71fdb[m[33m ([m[1;31morigin/continuous-delivery[m[33m)[m
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Date:   Sat Sep 29 20:27:42 2012 -0700
+
+    Isolate the acceptance tests from the other modules
+
+[33mcommit 03fbe777a53452ddde8f975be9d6699d9e468e87[m
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Date:   Sat Sep 29 19:29:41 2012 -0700
+
+    Adjusting PMD config
+
+[33mcommit 0da8942f2b20a787263dfca7ee1765b61839b616[m
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Date:   Sat Sep 29 12:10:57 2012 -0700
+
+    Updated thucydides for the acceptance tests
+
+[33mcommit f0020d5a17362c90044e57534b9b42085bc10fcf[m
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Date:   Sat Sep 29 11:28:44 2012 -0700
+
+    We can now deploy to different platforms:
+
+[33mcommit b2dbba194e942ada0977f8105bf61d62613ef41c[m
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Date:   Sat Sep 29 11:10:16 2012 -0700
+
+    Fixed merge issue
+
+[33mcommit 019435f7db77b2ac9749376071b079464d4b1d38[m
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Date:   Sat Sep 29 10:57:44 2012 -0700
+
+    Adapted tests to work better for the CD demo
+
+[33mcommit f6bf5fe204b6089c54dd1f3aa0a31777a978327b[m
+Merge: 2c46a60 4c76873
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Date:   Sat Sep 29 12:14:44 2012 +1000
+
+    Fixed versions
+
+[33mcommit 4c768734da65b3ce4d229b590c3733b47c9b2ceb[m
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Date:   Sat Sep 29 12:12:31 2012 +1000
+
+    Added support for jelastic
+
+[33mcommit 574a3e414b9e058718f58af83e95b5682db4ca4e[m
+Merge: e54ba91 96a19d0
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Date:   Fri Sep 28 08:04:15 2012 +1000
+
+    Merged in latesd updates
+
+[33mcommit 2c46a6071f4d1369a5c101a7fc7e6cdf58b6c3ab[m
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Date:   Fri Sep 28 08:01:25 2012 +1000
+
+    Updated versions
+
+[33mcommit 96a19d0be8f6270181c17e7c6a7f250e362bac2d[m
+Author: jenkins <jenkins@wakaleo.com>
+Date:   Thu Sep 27 21:20:30 2012 +0000
+
+    [maven-release-plugin] prepare for next development iteration
+
+[33mcommit 148999945ec05241c976ad93b65bd8ade3ee15d8[m[33m ([m[1;33mtag: gameoflife-0.9.66-SNAPSHOT[m[33m)[m
+Author: jenkins <jenkins@wakaleo.com>
+Date:   Thu Sep 27 21:20:23 2012 +0000
+
+    [maven-release-plugin] prepare release gameoflife-0.9.66-SNAPSHOT
+
+[33mcommit e54ba9132ad84a8be04fcaf37495363b6384cddb[m
+Merge: c0a67fc 02704f9
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Date:   Fri Sep 28 07:20:07 2012 +1000
+
+    Simplified build modules
+
+[33mcommit c0a67fcaeba07ac154aab47a6c5320ab24e985bb[m
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Date:   Fri Sep 28 07:18:42 2012 +1000
+
+    Simplified modules for CD demo
+
+[33mcommit 02704f9ee086263eb55624329ddb1b66b3b2ebee[m
+Author: jenkins <jenkins@wakaleo.com>
+Date:   Mon Sep 10 01:38:56 2012 +0000
+
+    [maven-release-plugin] prepare for next development iteration
+
+[33mcommit 745340541543a9ea825e27b105a7bb04617e77db[m[33m ([m[1;33mtag: gameoflife-0.9.65-SNAPSHOT[m[33m)[m
+Author: jenkins <jenkins@wakaleo.com>
+Date:   Mon Sep 10 01:38:51 2012 +0000
+
+    [maven-release-plugin] prepare release gameoflife-0.9.65-SNAPSHOT
+
+[33mcommit e153c0e496e1eb12b3c33e72c00bcb40b37dac63[m
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Date:   Mon Sep 10 11:35:48 2012 +1000
+
+    Changed README to markdown
+
+[33mcommit 783fdf9983031db650a3fb8e2a6af2417c8b2f6d[m
+Merge: c2e0b01 275c80d
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Date:   Mon Sep 10 11:33:47 2012 +1000
+
+    Updated versions
+
+[33mcommit c2e0b0139d83721319cda92535582ef356cf34ad[m
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Date:   Mon Sep 10 11:31:52 2012 +1000
+
+    Updated Thucydides version and added README
+
+[33mcommit 76d4db4b421b3785bf2077e376455701d9c1146d[m
+Author: John Ferguson Smart <john.smart@wakaleo.com>
+Date:   Tue Jun 19 08:57:47 2012 +1000
+
+    Tidying up the reports
+
+[33mcommit 275c80ddb17814c5a5f426bddcd7c3a8236764b2[m
+Author: jenkins <jenkins@wakaleo.com>
+Date:   Sun Jun 17 22:35:17 2012 +0000
+
+    [maven-release-plugin] prepare for next development iteration
+
+[33mcommit 7a0dc33215846053392031fd81d201292950b94a[m[33m ([m[1;33mtag: gameoflife-0.9.64-SNAPSHOT[m[33m)[m
+Author: jenkins <jenkins@wakaleo.com>
+Date:   Sun Jun 17 22:35:13 2012 +0000
+
+    [maven-release-plugin] prepare release gameoflife-0.9.64-SNAPSHOT
+
+[33mcommit d5670f8de956caa22570b8cc713eebe69e08dc97[m
+Author: jenkins <jenkins@wakaleo.com>
+Date:   Sun Jun 17 08:15:53 
